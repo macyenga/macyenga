@@ -2,11 +2,11 @@
 <h2 align="center"> Hi👋 </h2>
 
 <p align="center">
-	Software Developer  
- a member of 
-	<a href="https://42.fr/en/what-is-42/42-program-explained/">42 network</a>
+	Software Developer student at 
+	<a href="http://hanga.rw/">KIAC</a> a member of 
+	<a href="https://drive.google.com/drive/folders/1jJXtBHUKIbRrc1DTyzC2teOTr3O394kz">ALC</a>
 </br>
-🔭 Currently focusing on full-stack web development using React, Node.js and TypeScript, flutter 
+🔭 Currently focusing on full-stack web development using,flutter, React, Node.js and TypeScript
 </p>
 
 <h3 align="center"> Languages and Frameworks </h3>
@@ -32,14 +32,15 @@
 </div>
 
 <h3 align="center"> Currently Learning </h3>
-
+<div align="center">
+	<img height="30" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" />
 	<img height="30" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" title="Vue" />
 	<img height="30" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask" title="Flask" />
 </div>
 
 <h3 align="center"> Connect with me! </h3>
 <div align="center">
-	<a href="https://www.linkedin.com/in/iradukunda-didier-9939b2242/">
+	<a href="https://www.linkedin.com/in/cong-nguyen-6a965422a/">
 		<img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" title="LinkedIn" />
 	</a>
 </div>
