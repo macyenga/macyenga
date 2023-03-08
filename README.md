@@ -40,7 +40,7 @@
 
 <h3 align="center"> Connect with me! </h3>
 <div align="center">
-	<a href="https://www.linkedin.com/in/cong-nguyen-6a965422a/">
+	<a href="https://www.linkedin.com/in/iradukunda-didier-9939b2242/">
 		<img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" title="LinkedIn" />
 	</a>
 </div>
