@@ -32,15 +32,14 @@
 </div>
 
 <h3 align="center"> Currently Learning </h3>
-<div align="center">
-	<img height="30" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" />
+
 	<img height="30" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" title="Vue" />
 	<img height="30" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask" title="Flask" />
 </div>
 
 <h3 align="center"> Connect with me! </h3>
 <div align="center">
-	<a href="https://www.linkedin.com/in/cong-nguyen-6a965422a/">
+	<a href="https://www.linkedin.com/in/iradukunda-didier-9939b2242/">
 		<img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" title="LinkedIn" />
 	</a>
 </div>
