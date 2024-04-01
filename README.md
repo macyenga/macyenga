@@ -1,6 +1,3 @@
-Certainly! Here's a customized README.md template for a junior software engineer:
-
-```markdown
 <h2 align="center"> Hi there! 👋 </h2>
 
 <p align="center">
@@ -41,23 +38,3 @@ Certainly! Here's a customized README.md template for a junior software engineer
 <h3 align="center"> Connect with me! </h3>
 <div align="center">
     <a href="https://www.linkedin.com/in/iradukunda-didier-993
-
-Source: Conversation with Bing, 4/1/2024
-(1) Requirements Management - Modern Requirements. https://www.modernrequirements.com/.
-(2) Try Now - Modern Requirements. https://www.modernrequirements.com/try-now/.
-(3) Best Requirements Management Software for GitHub - SourceForge. https://sourceforge.net/software/requirements-management/integrates-with-github/.
-(4) Requirements Management Tools - Modern Requirements. https://www.modernrequirements.com/products/modern-requirements4devops/.
-(5) Enforcing code reliability by requiring workflows with GitHub .... https://github.blog/2023-10-11-enforcing-code-reliability-by-requiring-workflows-with-github-repository-rules/.
-(6) Filtering and searching issues and pull requests - GitHub Docs. https://docs.github.com/en/issues/tracking-your-work-with-issues/filtering-and-searching-issues-and-pull-requests.
-(7) Filtering issues and pull requests by milestone - GitHub Docs. https://docs.github.com/en/enterprise-cloud@latest/issues/using-labels-and-milestones-to-track-work/filtering-issues-and-pull-requests-by-milestone.
-(8) Managing pull request reviews in your repository - GitHub Docs. https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-pull-request-reviews-in-your-repository.
-(9) How to remove a filter from Git - Stack Overflow. https://stackoverflow.com/questions/32518832/how-to-remove-a-filter-from-git.
-(10) requirements-management · GitHub Topics · GitHub. https://github.com/topics/requirements-management.
-(11) GitHub - osrmt/osrmt: Open Source Requirements Management Tool. https://github.com/osrmt/osrmt.
-(12) Planning and tracking work for your team or project - GitHub Docs. https://docs.github.com/en/issues/tracking-your-work-with-issues/planning-and-tracking-work-for-your-team-or-project.
-(13) Requirements management | GitLab. https://docs.gitlab.com/ee/user/project/requirements/.
-(14) 10 Best Requirements Management Tools Reviewed For 2024. https://thedigitalprojectmanager.com/tools/requirements-management-tools/.
-(15) Best Requirements Management Integrations with GitHub 2024. https://www.getapp.com/project-management-planning-software/requirements-management/w/github/.
-(16) undefined. https://github.com/doorstop-dev/doorstop.
-(17) undefined. https://www.piter.com/product_by_id/40878036%29.
-(18) undefined. https://goo.gl/Av7Zmg.
